@@ -1,0 +1,26 @@
+.nav-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    background-color: #874F41;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-styles-ul {
+    list-style: none;
+}
+
+.nav-styles-ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.nav-styles-ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-styles-ul li a:hover {
+    color: #FBE9D0;
+}

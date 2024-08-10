@@ -1,0 +1,25 @@
+.about-container {
+    display: flex;
+    margin: 0 25px
+}
+
+.about-left {
+    width: 50%;
+}
+
+.about-img {
+    width: 75%;
+    border-radius: 15px;
+}
+
+.about-right {
+    width: 50%;
+    color: #FBE9D0;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+.about-text {
+    display: flex;
+    flex-direction: column;
+}
