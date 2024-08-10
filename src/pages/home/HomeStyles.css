@@ -38,7 +38,7 @@
     flex-direction: column;
     animation: 1s ease-out 0s 1 slideInFromRight;
     gap: 20px;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
     color: #FBE9D0;
 }
 

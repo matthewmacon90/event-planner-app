@@ -1,10 +1,16 @@
 .events-container {
-    margin-bottom: 30px;
-    margin-left: 30px;
-    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    background-color: #FBE9d0;
+    align-items: center;
 }
 
-.event-list {
+.events-info {
+    width: 75%;
+    margin-bottom: 30px;
+}
+
+.events-list {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -29,9 +35,6 @@
     margin-right: 20px;
 }
 
-.event-info {
-    flex: 1;
-}
 
 .event-item:nth-child(even) {
    flex-direction: row-reverse;
