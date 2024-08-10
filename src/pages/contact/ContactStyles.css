@@ -7,13 +7,13 @@
 }
 
 .contact-title {
-    color: #FBE9D0;
+    color: #244855;
 }
 
 .contact-info {
     font-size: 20px;
     padding: 0 30px;
-    color: #FBE9D0;
+    color: #244855;
 }
 
 .contact-form {
@@ -24,7 +24,7 @@
     padding: 10px;
     margin-top: 10px;
     width: 50%;
-    background-color: #E64833;
+    background-color: #244855;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(43, 18, 18, 0.1);
 }
@@ -56,7 +56,8 @@
 .contact-cta {
     width: 80%;
     height: 50px;
-    background-color: #244855;
+    background-color: #e64833;
+    font-weight: bold;
     color: #FBE9D0;
     border: none;
     border-radius: 5px;
@@ -65,8 +66,8 @@
 }
 
 .contact-cta:hover {
-    background-color: #D3D9D4;
-    color: #748D92;
+    background-color: #90aead;
+    color: white;
 }
 
 .contact-cta:active {
