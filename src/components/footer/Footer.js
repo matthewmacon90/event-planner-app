@@ -22,10 +22,10 @@ const Footer = () => {
                 </ul>
             </div>
             <div className='footer-middle'>
-                <p>© 2021 - All rights reserved</p>
+                <p>© 2024 - All rights reserved</p>
             </div>
             <div className='footer-rightside'>
-                <div className='footer-social'>
+                <div id='footer-icon' className='footer-social'>
                     <SocialIcon url="https://www.facebook.com/yourprofile" />
                     <SocialIcon url="https://www.instagram.com/yourprofile" />
                 </div>
